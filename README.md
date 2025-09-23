@@ -1,4 +1,6 @@
-<h1 align="center">Olá 👋, Eu sou Jaime Teixeira</h1>
+# 🎲🎯 Jaime Teixeira
+
+**`Analytics Engineer`** **`Data Scientist`**
 <h3 align="center">Analista de dados com conhecimento de negócios e experiência analisando dados na área comercial e na área de marketing. Atuo na solução de problemas traduzindo dados em análises que gerem insights para a tomada de decisão nos negócios.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimejrs&label=Profile%20views&color=0e75b6&style=flat" alt="jaimejrs" /> </p>
