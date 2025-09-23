@@ -31,33 +31,7 @@ Analista de dados com conhecimento de negócios e experiência analisando dados 
 ---
 ### 🤖🛠️ Minhas ferramentas de trabalho:
 
-### 🛠️ Minhas ferramentas de trabalho
-
-<!-- Primeira linha -->
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="SQLServer" title="SQLServer" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSql" title="PostgreSql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Oracle" title="Oracle" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="GoogleCloud" title="GoogleCloud" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="R" title="R" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" />
-<br/>
-<br/>
-
-<!-- Segunda linha -->
-
-<img align="left" alt="Jupyter" title="Jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="Anaconda" title="Anaconda" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
-<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="Power Bi" title="Power Bi" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" />
-<img align="left" alt="Looker Studio" title="Looker Studio" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" />
-<img align="left" alt="Tableau" title="Tableau" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
-<img align="left" alt="Power Apps" title="Power Apps" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=dFQ55kLSmeny&format=png&color=000000" />
-<img align="left" alt="N8N" title="N8N" width="30px" style="padding-right: 10px;" src="https://github.com/user-attachments/assets/5bd1e784-9d7e-4e78-afa2-e1807a9d84a4"/>
-
-
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img align="left" alt="SQLServer" title="SQLServer" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img align="left" alt="PostgreSql" title="PostgreSql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> <img align="left" alt="Oracle" title="Oracle" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <img align="left" alt="GoogleCloud" title="GoogleCloud" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /> <img align="left" alt="R" title="R" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" /> <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" /> <img align="left" alt="Jupyter" title="Jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /> <img align="left" alt="Anaconda" title="Anaconda" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" /> <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> <img align="left" alt="Power Bi" title="Power Bi" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" /> <img align="left" alt="Looker Studio" title="Looker Studio" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" /> <img align="left" alt="Tableau" title="Tableau" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" /> <img align="left" alt="Power Apps" title="Power Apps" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=dFQ55kLSmeny&format=png&color=000000" /> <img align="left" alt="N8N" title="N8N" width="30px" style="padding-right: 10px;" src="https://github.com/user-attachments/assets/5bd1e784-9d7e-4e78-afa2-e1807a9d84a4" /> <br/> <br/>
 <!--
 ## Hi there 👋!
 
