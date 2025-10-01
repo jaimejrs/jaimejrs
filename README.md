@@ -25,7 +25,7 @@ Analista de dados com conhecimento de negócios e experiência analisando dados 
 <p align="left">
 <a href="https://linkedin.com/in/jaimejrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaimejrs" height="30" width="40" /></a>
 <a href="https://instagram.com/jaime.jrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaime.jrs" height="30" width="40" /></a>
-<a href="https://medium.com/jaimejrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jaimejrs" height="30" width="40" /></a>
+<a href="https://medium.com/@jaimejrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jaimejrs" height="30" width="40" /></a>
 </p>
 
 ---
