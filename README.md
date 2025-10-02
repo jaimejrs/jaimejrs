@@ -63,9 +63,21 @@ Dashboard interativo construído para analisar os fatores que impulsionam o enga
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+---
 
-<p align="center">
+## 📊 GitHub Stats
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaimejrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimejrs&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimejrs&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaimejrs&color=blueviolet&style=flat-square" alt="Profile Views">
+  
+  ### 💡 "Dados contam histórias, cabe a nós aprender a ouvi-las"
+  
+  ⭐️ Gostou de algo que viu? Considere dar uma estrela! Estou aberto a feedbacks e sugestões :)
+</div>
