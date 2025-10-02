@@ -15,7 +15,7 @@ Analista de dados com conhecimento de negócios e experiência em projetos para 
 ### 🚀 Último Projeto
 
 #### [Análise de Performance de Vídeos Virais (TikTok & YouTube Shorts)](https://github.com/jaimejrs/tiktok-and-youtube-analysis)
-<a href="https://tiktok-and-youtube-analysis-d5l4tgkxmevvehe9xyogta.streamlit.app/">
+<a href="https://tktk-and-youtube-analysis.streamlit.app/">
   <img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVlNDdpMHA2aDFxd2oxaGNkM3Z5NjZqNzYxcndjOWx5ODlteno0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wWFjvt7XQul1vRpcWD/giphy.gif" alt="Prévia do Dashboard">
 </a>
 Dashboard interativo construído para analisar os fatores que impulsionam o engajamento em vídeos curtos. O projeto envolve um pipeline completo de Data Science, desde a coleta e tratamento dos dados até a aplicação de modelos de Machine Learning e a visualização em uma aplicação web.
@@ -25,7 +25,7 @@ Dashboard interativo construído para analisar os fatores que impulsionam o enga
     * Análise de Sentimento de comentários com NLP.
     * Modelo de *Feature Importance* para identificar drivers de sucesso.
     * Teste A/B e análises estatísticas.
-* 🔗 **[Acesse o Dashboard Interativo](https://tiktok-and-youtube-analysis-d5l4tgkxmevvehe9xyogta.streamlit.app/)**
+* 🔗 **[Acesse o Dashboard Interativo](https://tktk-and-youtube-analysis.streamlit.app)**
 
 ---
 
