@@ -12,7 +12,7 @@ Analista de dados com conhecimento de negócios e experiência em projetos para 
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Último Projeto
 
 #### [Análise de Performance de Vídeos Virais (TikTok & YouTube Shorts)](https://github.com/jaimejrs/tiktok-and-youtube-analysis)
 <a href="https://tiktok-and-youtube-analysis-d5l4tgkxmevvehe9xyogta.streamlit.app/">
