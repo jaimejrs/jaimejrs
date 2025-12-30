@@ -14,17 +14,15 @@ Analista de dados com visão de negócios e experiência em projetos estratégic
 
 ### Projeto em Destaque
 
-<img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJrMzh2dmcweTV1OG9mNWlyamZjb2ppY3p3ZXd6N25nNmJ6c2s3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUdOgUM6gc54P1NxHq/giphy.gif" alt="Prévia do Dashboard">
+<a href="https://tiktokandyoutubeshortsanalysis.streamlit.app/">
+  <img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJrMzh2dmcweTV1OG9mNWlyamZjb2ppY3p3ZXd6N25nNmJ6c2s3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUdOgUM6gc54P1NxHq/giphy.gif" alt="Prévia do Dashboard">
 </a>
-Dashboard interativo construído para analisar os fatores que impulsionam o engajamento em vídeos curtos. O projeto envolve um pipeline desde a coleta e tratamento dos dados até a aplicação de modelos de Machine Learning e a visualização em uma aplicação web.
-
 
 #### [Tiktok and Youtube Shorts Analytics](https://github.com/jaimejrs/tiktok_and_youtube-shorts_analysis)
-<a href="https://tiktokandyoutubeshortsanalysis.streamlit.app/">
-  <img align="right" width="400" src="LINK_DO_SEU_NOVO_GIF_AQUI.gif" alt="Prévia do Dashboard Viral Analytics">
-</a>
 
-Uma solução "End-to-End" de Business Intelligence focada na análise de vídeos curtos baseado em um dataset disponibilizado no Kaggle. O projeto simula um ambiente corporativo real, saindo de um unico "planilhão" para uma arquitetura em nuvem.
+Dashboard interativo construído para analisar os fatores que impulsionam o engajamento em vídeos curtos. O projeto envolve um pipeline desde a coleta e tratamento dos dados até a aplicação de modelos de Machine Learning e a visualização em uma aplicação web.
+
+Uma solução "End-to-End" de Business Intelligence focada na análise de vídeos curtos baseado em um dataset disponibilizado no Kaggle. O projeto simula um ambiente corporativo real, saindo de um único "planilhão" para uma arquitetura em nuvem.
 
 * **Arquitetura:** Pipeline ETL automatizado, modelagem de Data Warehouse (Star Schema) hospedado na nuvem (Aiven Cloud/MySQL).
 * **Engenharia:** Web Scraping para capturar o Top 200 Global Hits e enriquecer a análise de áudio rodando automaticamente pelo Github Actions.
@@ -33,7 +31,7 @@ Uma solução "End-to-End" de Business Intelligence focada na análise de vídeo
 
 🔗 **[Acesse o Dashboard Online](https://tiktokandyoutubeshortsanalysis.streamlit.app/)**
 
-<br> 
+<br clear="right">
 
 ---
 
@@ -68,5 +66,4 @@ Uma solução "End-to-End" de Business Intelligence focada na análise de vídeo
   <img src="https://komarev.com/ghpvc/?username=jaimejrs&color=blueviolet&style=flat-square" alt="Profile Views">
   
   ### "Dados contam histórias, cabe a nós aprender a ouvi-las"
-  
 </div>
