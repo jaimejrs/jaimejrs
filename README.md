@@ -24,8 +24,6 @@ Dashboard interativo construído para analisar os fatores que impulsionam o enga
   <img align="right" width="400" src="LINK_DO_SEU_NOVO_GIF_AQUI.gif" alt="Prévia do Dashboard Viral Analytics">
 </a>
 
-
-
 Uma solução "End-to-End" de Business Intelligence focada na análise de vídeos curtos baseado em um dataset disponibilizado no Kaggle. O projeto simula um ambiente corporativo real, saindo de um unico "planilhão" para uma arquitetura em nuvem.
 
 * **Arquitetura:** Pipeline ETL automatizado, modelagem de Data Warehouse (Star Schema) hospedado na nuvem (Aiven Cloud/MySQL).
