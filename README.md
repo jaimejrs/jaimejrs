@@ -35,32 +35,64 @@ Uma solução "End-to-End" de Business Intelligence focada na análise de vídeo
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="left">🛠️ Tech Stack & Ferramentas</h3>
 
 <p align="left">
   <strong>Linguagens & Scripting:</strong><br>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
-</p>
-<p align="left">
-  <strong>Bancos de Dados & Cloud:</strong><br>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-</p>
-<p align="left">
-  <strong>BI, Visualização & Web App:</strong><br>
-  <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
-  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"></a>
-  <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"></a>
-</p>
-<p align="left">
-  <strong>Outras Ferramentas:</strong><br>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 </p>
 
----
+<p align="left">
+  <strong>Engenharia de Dados, ETL & Orquestração:</strong><br>
+  <a href="#" target="_blank"><img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="n8n" src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="Pentaho" src="https://img.shields.io/badge/Pentaho-1F3C57?style=for-the-badge&logo=hitachivantara&logoColor=white"></a>
+</p>
+
+<p align="left">
+  <strong>Data Science & Machine Learning:</strong><br>
+  <a href="#" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+</p>
+
+<p align="left">
+  <strong>Cloud & Bancos de Dados:</strong><br>
+  <a href="#" target="_blank"><img alt="Neon" src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black"></a>
+  <a href="#" target="_blank"><img alt="Aiven" src="https://img.shields.io/badge/Aiven-FF3554?style=for-the-badge&logo=aiven&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+  <br>
+  <a href="#" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
+</p>
+
+<p align="left">
+  <strong>BI, Visualização & Design:</strong><br>
+  <a href="#" target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"></a>
+  <a href="#" target="_blank"><img alt="Looker Studio" src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <br>
+  <a href="#" target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
+  <a href="#" target="_blank"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-9cf?style=for-the-badge&logo=python&logoColor=white"></a>
+</p>
+
+<p align="left">
+  <strong>DevOps, Ambiente & DB Tools:</strong><br>
+  <a href="#" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="Linux Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+  <br>
+  <a href="#" target="_blank"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-38294A?style=for-the-badge&logo=dbeaver&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="DbSchema" src="https://img.shields.io/badge/DbSchema-0066cc?style=for-the-badge&logo=database&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+</p>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jaimejrs&color=blueviolet&style=flat-square" alt="Profile Views">
