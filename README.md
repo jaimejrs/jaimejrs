@@ -102,6 +102,10 @@ I’m passionate about technology and self-development — I especially enjoy st
   <img align="center" src="https://img.shields.io/badge/DbSchema-0066cc?style=for-the-badge&logo=database&logoColor=white" alt="DbSchema Logo">
   <img align="center" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Logo">
   <img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Logo">
+  <img align="center" src="https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Storage">
+  <img align="center" src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google BigQuery">
+  <img align="center" src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase">
+  <img align="center" src="https://img.shields.io/badge/gcloud_CLI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud CLI">
 </div>
 
 
