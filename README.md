@@ -7,14 +7,14 @@
 </p>
 
 <div align="center" style="line-height: 0;">
-     <img src="lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
+     <img src="lineBar - Editado.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
 <table>
   <tr>
     <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFxZjZvNGg3bWU1MjNwY3FndDdzdTJzb2VkY2V3YWIxc2ppem5jZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" alt="gif1" width="380"/></td>
     <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9sM2hvbTlyMDV0Z2xqbHEwZzZrcXhmc2FhM293MzEydGhqNjZhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtO0orBf8SpxGycTWc/giphy.gif" alt="gif2" width="380"/></td>
   </tr>
 </table>
- <img src="lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
+ <img src="lineBar - Editado.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
 </div>
 
 
