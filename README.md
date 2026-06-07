@@ -19,7 +19,7 @@
 
 
 ## About Me:
-**`Data Analytics`** **`Business Intelligence`** **`Machine Learning Engineering`**
+**`Analytics Engineering`** **`Data Engineering`** **`Machine Learning Engineering`**
 
 <div align='center'>
   <b>"Technology will reinvent business, but human relationships will remain the key to success" -  Stephen Covey </b>
