@@ -22,7 +22,7 @@
 **`Analytics Engineering`** **`Data Engineering`**
 
 <div align='center'>
-  <b>"Technology will reinvent business, but human relationships will remain the key to success" -  Stephen Covey </b>
+  <b>"Be curious. Read widely. Try new things. I think a lot of what people call intelligence boils down to curiosity" -  Aaron Swartz </b>
 </div><br>
 
  
