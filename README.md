@@ -26,13 +26,13 @@
 </div><br>
 
  
-I have a degree in <b>Business Administration (UFC)</b>, and I am currently studying <b>Data Science</b>, while continuing to deepen my knowledge in topics involving Data Engineering, Data Science, Machine Learning, and Artificial Intelligence, aiming to build a solid background for a career in <b>Machine Learning Engineering</b>.
+I am a postgraduate student in <b>Data Science and Artificial Intelligence</b> with 2 years of experience working with data. My expertise focuses on data ingestion, transformation, and modeling, specifically structuring automated pipelines with an emphasis on quality, performance, and reproducibility.
 
-I come from a <b>management and business</b> background with hands-on experience focused on processes, and I carry a trait that has become my differentiator: <b>translating business needs into clear analytical deliverables</b>. Today, I work as a <b>Business Intelligence Intern at Scanntech</b>, supporting decisions in <b>pricing, production, and promotion</b> through <b>sell-out</b> analyses, as well as building <b>Power BI dashboards</b>, structuring <b>ETL</b> routines, and automating data quality and cleaning steps with <b>Python</b> (including <b>Streamlit</b> apps). I have also worked at <b>TRT7</b>, creating KPI dashboards (including <b>NPS</b>) and automating routines with <b>Python</b>, <b>VBA</b>, and <b>PowerApps</b>, increasing efficiency and standardizing reporting.
+Currently, I work as a <b>Strategy and Performance Analyst at FIEC</b>, acting as a data and process developer. In this role, I am responsible for structuring the visualization of OKRs and KPIs for the entire organization. To sustain these corporate metrics, I build Data Marts, integrate systems with the Data Lake, and develop robust ETL/ELT pipelines using SQL and Python. I also automate workflows with Airflow to reduce manual tasks, and build management dashboards in Power BI utilizing DAX measures.
 
-I have practical experience with <b>Python</b>, <b>SQL</b>, <b>Power BI</b>, <b>Looker Studio</b>, <b>Excel</b>, and end-to-end data workflows (problem understanding → prototyping → processing → visualization → documentation and training). In addition, I serve as a <b>Data Analytics teaching assistant at Digital College</b>, which strengthens my communication skills and my ability to teach in a clear, objective way.
+Previously, as a <b>Data Intern at Scanntech</b>, I worked in the Customer Business Growth area, conducting advanced sell-out analyses to support pricing, production, and promotion strategies. I structured large-volume data extraction with SQL, implemented ETL routines orchestrated via Airflow, and built Power BI dashboards.
 
-I’m passionate about technology and self-development — I especially enjoy studying <b>statistics</b> and <b>Machine Learning</b>, always working to expand my technical toolkit without losing focus on what matters most: <b>driving real business impact</b> through well-structured data and smarter decisions.
+Alongside my corporate roles, I am a <b>Professor at Digital College</b>, where I teach "Data Analytics with AI" and "Advanced Python for AI Engineering." I guide students through practical projects involving the construction of Data Warehouses, pipeline orchestration, Streamlit applications, Machine Learning models, and AI agents. I also lead practical implementations of containerized data ecosystems with Docker, distributed processing in Hadoop, and task automation via Airflow DAGs.
 
 <div align='center'>
 
@@ -71,41 +71,37 @@ I’m passionate about technology and self-development — I especially enjoy st
 ## Tools:
 
 <div align="center">        
-<img align="center" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="pacote office Logo">
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws Logo">
+  <img align="center" src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
+  <img align="center" src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Redshift">
+  <img align="center" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+  <img align="center" src="https://img.shields.io/badge/Apache%20Hadoop%20HDFS-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop HDFS">
+  <img align="center" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow Logo">
+  <img align="center" src="https://img.shields.io/badge/Apache%20Hop-282A36?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Hop">
+  <img align="center" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  <img align="center" src="https://img.shields.io/badge/Oracle%20ODI-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="ODI">
+  <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img align="center" src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server">
+  <img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
+  <img align="center" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="pacote office Logo">
   <img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab Logo">
   <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git Logo">
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github Logo">
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Logo">
   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Logo">
-  <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma Logo">
   <img align="center" src="https://img.shields.io/badge/Power_BI-FFFF00?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI Logo">
-  <img align="center" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi Logo">
-  <img align="center" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite Logo">
   <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker Logo">
-  <img align="center" src="https://img.shields.io/badge/Neon-008CFF?style=for-the-badge&logo=neondatabase&logoColor=white" alt="neon Logo">
-  <img align="center" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow Logo">
-  <img align="center" src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Logo">
-  <img align="center" src="https://img.shields.io/badge/Pentaho-1F3C57?style=for-the-badge&logo=hitachivantara&logoColor=white" alt="Pentaho Logo">
   <img align="center" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Logo">
   <img align="center" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Logo">
   <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn Logo">
-  <img align="center" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Logo">
-  <img align="center" src="https://img.shields.io/badge/Aiven-FF3554?style=for-the-badge&logo=aiven&logoColor=white" alt="Aiven Logo">
   <img align="center" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Logo">
   <img align="center" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Logo">
   <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Logo">
-  <img align="center" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib Logo">
-  <img align="center" src="https://img.shields.io/badge/Seaborn-9cf?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn Logo">
-  <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux Ubuntu Logo">
-  <img align="center" src="https://img.shields.io/badge/DBeaver-38294A?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver Logo">
-  <img align="center" src="https://img.shields.io/badge/DbSchema-0066cc?style=for-the-badge&logo=database&logoColor=white" alt="DbSchema Logo">
   <img align="center" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Logo">
   <img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Logo">
   <img align="center" src="https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Storage">
   <img align="center" src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google BigQuery">
   <img align="center" src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase">
-  <img align="center" src="https://img.shields.io/badge/gcloud_CLI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud CLI">
 </div>
 
 
@@ -122,7 +118,7 @@ I’m passionate about technology and self-development — I especially enjoy st
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaimejrs&theme=radical) | ![](https://github-readme-streak-stats.herokuapp.com/?user=jaimejrs&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) | 
 | :-: | :-: |
-          
+        
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9C27B0&height=120&section=footer&text=If%20you%20also%20love%20turning%20chaos%20into%20insights%2C%20we%E2%80%99re%20on%20the%20same%20team!%20Thanks%20for%20stopping%20by!&fontColor=ffffff&fontAlign=50&fontAlignY=middle&fontSize=16" />
