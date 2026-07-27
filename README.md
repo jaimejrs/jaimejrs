@@ -102,6 +102,16 @@ Alongside my corporate roles, I am a <b>Professor at Digital College</b>, where 
   <img align="center" src="https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Storage">
   <img align="center" src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google BigQuery">
   <img align="center" src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase">
+  
+  <!-- Stacks adicionadas do projeto Ceará Transparente -->
+  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img align="center" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white" alt="Apache Spark">
+  <img align="center" src="https://img.shields.io/badge/Apache%20Iceberg-008D9C?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Iceberg">
+  <img align="center" src="https://img.shields.io/badge/Hive%20Metastore-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Hive Metastore">
+  <img align="center" src="https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white" alt="Trino">
+  <img align="center" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
+  <img align="center" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
+  <img align="center" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
 </div>
 
 
